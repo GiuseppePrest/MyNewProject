@@ -22,6 +22,10 @@ namespace Giuseppe_CSharp_Practice
         {
             Console.WriteLine("I made you a gelato");
         }
+        public virtual void MakeMeACarbonare()
+        {
+            console.WriteLine("Carbonara is ready");
+        }
             
             }
 }
